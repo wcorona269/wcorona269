@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Will a.k.a. @wcorona269!
+- 👋 Hi, I’m Will!
 - 👀 I’m interested in coding, music, soccer, and renewable energy!
 - 🌱 I’m currently learning software engineering at App Academy!
 - 💞️ I’m looking to collaborate on projects that will help me grow with JavaScript & Ruby!
